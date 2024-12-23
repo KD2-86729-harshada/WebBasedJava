@@ -25,7 +25,7 @@ ${r.adddata()}
 
  <c:when test="${r.result==1}">
 <h2> Register Successfully.... :) </h2>
-
+  
 		<a href="index.jsp"/>Login</a>
 </c:when>
 
